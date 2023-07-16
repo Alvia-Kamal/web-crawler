@@ -1,0 +1,19 @@
+{
+  "name": "web-crawler",
+  "version": "1.0.0",
+  "description": "Web crawler with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start":"node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alvia-Kamal/web-crawler"
+  },
+  "devDependencies": {
+    "jest": "^29.6.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
