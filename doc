@@ -1,0 +1,3 @@
+normalizeURL is going to convert the url into normalized form by stripping the protocol and converting the upper and lower characters to lower
+example: https://boot.dev/path and http://Boot.dev/path are same urls hence the func would return boot.dev/path
+We also need to handle the cases where 
